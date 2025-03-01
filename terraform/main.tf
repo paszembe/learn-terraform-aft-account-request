@@ -1,3 +1,4 @@
+/*
 module "sandbox" {
   source = "./modules/aft-account-request"
 
@@ -25,3 +26,6 @@ module "sandbox" {
 
   account_customizations_name = "sandbox"
 }
+
+
+*/
