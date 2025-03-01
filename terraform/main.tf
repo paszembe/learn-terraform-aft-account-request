@@ -16,7 +16,7 @@ module "sandbox" {
 
   change_management_parameters = {
     change_requested_by = "Fox"
-    change_reason       = "Add another s3 bucket"
+    change_reason       = "Add yet another s3 bucket"
   }
 
   custom_fields = {
